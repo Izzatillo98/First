@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asia UzComputers\\Desktop\\SimpleKalkulator\\First\\First.csproj",
+      "projectUniqueName": "C:\\Users\\Asia UzComputers\\Desktop\\First\\First.csproj",
       "projectName": "First",
-      "projectPath": "C:\\Users\\Asia UzComputers\\Desktop\\SimpleKalkulator\\First\\First.csproj",
+      "projectPath": "C:\\Users\\Asia UzComputers\\Desktop\\First\\First.csproj",
       "packagesPath": "C:\\Users\\Asia UzComputers\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asia UzComputers\\Desktop\\SimpleKalkulator\\First\\obj\\",
+      "outputPath": "C:\\Users\\Asia UzComputers\\Desktop\\First\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asia UzComputers\\AppData\\Roaming\\NuGet\\NuGet.Config"
