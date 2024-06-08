@@ -1,5 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-int fir = 12;
-Console.WriteLine(fir);
-
+﻿
+int meningYoshim ;
+Console.WriteLine("mening Yoshim nechchada");
+Console.Write("Yoshiz: ");
+string kereliYosh = Console.ReadLine();
+meningYoshim = convertToInt32(kereliYosh);
+bool aslYoshim = meningYoshim > 20 && meningYoshim < 30;
+Console.WriteLine(aslYoshim);
