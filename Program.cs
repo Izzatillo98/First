@@ -1,9 +1,10 @@
-﻿
-int meningYoshim ;
+﻿using System.Net.NetworkInformation;
 
-Console.WriteLine("mening Yoshim nechchada");
-Console.Write("Yoshiz: ");
-string kereliYosh = Console.ReadLine();
-meningYoshim = Convert.ToInt32(kereliYosh);
-bool aslYoshim = meningYoshim > 20 && meningYoshim < 30;
-Console.WriteLine(aslYoshim);
+Decimal radius;
+Console.WriteLine("Aylanani radiusini kiriting: ");
+Console.Write("radius :");
+string Yuzi = Console.ReadLine();
+radius = Convert.ToDecimal(Yuzi);
+Decimal javob = (radius * radius * 3.14m );
+Console.Write("Aylananing yuzi :");
+Console.WriteLine(javob + " sm^2 ga teng");
